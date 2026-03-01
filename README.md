@@ -23,10 +23,10 @@
 -Run the program using terminal
 java filename.java
 
-# Technologies Used
+## Technologies Used
 -Java
 -VS code
 
-# Acknowledgement 
+## Acknowledgement 
 This project was developed as part of codsoft internship task 
 
